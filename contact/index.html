@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>DARREN:Personal site and portfolio</title>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Darren Ho: Contact</title>
 </head>
 <body>
     <nav>
@@ -15,11 +15,14 @@
             <li><a href="resume">Resume</a></li>
         </ul>
     </nav>
-    <h1>Darren Ho</h1>
-    <p>I am a second-year data science major. I enjoy playing sports and 
-        recently got into photography. Over the break I went to vietnam with my 
-        family and took many pictures.
-    </p>
-    <img src="images/me.jpeg" alt="me playing beach volleyball">
+    </nav>
+    <h1>Contact</h1>
+    <form action="mailto:dah013@ucsd.edu" method="post" enctype="text/plain">
+        <label>Email: <input name="email" type="email"></label>
+        <label>Subject: <input name="subject"></label>
+        <label>Body: <textarea name="body"></textarea></label>
+       <button>Submit</button>
+        
+    </form>
 </body>
 </html>
