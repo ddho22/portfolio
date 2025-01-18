@@ -50,3 +50,66 @@ nav a:hover {
   border-bottom-color: var(--color-accent);
   background-color: oklch(from var(--color-accent) 95% 5% h)
 }
+
+form {
+  grid-template-columns: auto 1fr;
+  display: grid;
+  gap: 1em;
+}
+
+label {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: subgrid;
+}
+
+button{
+  font-size: inherit;
+  display: content;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+  text-align: center;
+  background-color: lightgray;
+  padding: .5em;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+  gap: 1em;
+}
+
+article {
+  grid-template-rows: subgrid;
+  grid-row: span 3;
+}
+
+article h2 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 305%;
+}
+
+h2 {
+  font-size: 244%;
+}
+
+h3 {
+  font-size: 195%;
+}
+
+h4 {
+  font-size: 156%;
+}
+
+h5 {
+  font-size: 125%;
+}
+
+body {
+  font-size: 100%;
+  line-height: 1.1;
+  text-wrap: balance;
+}
