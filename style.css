@@ -12,6 +12,10 @@ body {
     padding: 1%;
 }
 
+p {
+  display: content;
+}
+
 ul {
   display: contents;
 }
@@ -117,20 +121,20 @@ body {
 .container {
   grid-template-columns: auto 1fr;
   display: grid;
-
+  gap: 1em;
   
   h2 {
     text-align: center;
     
   }
-
+  
   .sect_title {
     h2{
       border-bottom: 4px solid rgb(114, 114, 114);
     }
   }
 
-  h3 {
+  h3, h1 {
     text-align: center;
   }
 
