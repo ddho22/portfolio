@@ -59,7 +59,8 @@ document.body.insertAdjacentHTML(
 let select = document.querySelector("label.color-scheme");
   if ("colorScheme" in localStorage) {
     select.value = localStorage.colorScheme;
-
+    select.firstElementChild.value = localStorage.colorScheme;
+    
     document.documentElement.style.setProperty('color-scheme', localStorage.colorScheme);
   }
 
@@ -74,7 +75,7 @@ let select = document.querySelector("label.color-scheme");
     localStorage.colorScheme = event.target.value;
   });
 
-let form = document.querySelector("form")
+let form = document.querySelector("form");
 
 form?.addEventListener("submit", function (event) {
     event.preventDefault();
