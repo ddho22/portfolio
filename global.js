@@ -56,7 +56,7 @@ document.body.insertAdjacentHTML(
       </label>`
   );
 
-  let select = document.querySelector("label.color-scheme");
+let select = document.querySelector("label.color-scheme");
   if ("colorScheme" in localStorage) {
     select.value = localStorage.colorScheme;
 
@@ -74,4 +74,16 @@ document.body.insertAdjacentHTML(
     localStorage.colorScheme = event.target.value;
   });
 
-  
+let form = document.querySelector("form")
+
+form?.addEventListener("submit", function (event) {
+    event.preventDefault();
+    let data = new FormData(form);
+    let url = "mailto:dah013@ucsd.edu?";
+
+    for (let [name, value] of data) {
+        url =  url + encodeURIComponent(name) + "=" + encodeURIComponent(value) + "&";
+    }
+    console.log(url);
+    location.href = url.slice(0, -1) + "?";
+})
