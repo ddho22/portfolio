@@ -1,61 +1,73 @@
 [
     {
-        "title": "Lorem ipsum dolor sit.",
+        "title": "DSC 106 Project 1.",
+        "year": 2025,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, enim consequatur culpa nemo iure illum ipsum obcaecati sed voluptatem eum hic quas repellendus illo maxime maiores veniam ducimus animi sequi!"
     },
     {
-        "title": "Repellat magnam odio sed!",
+        "title": "GAP Assessment",
+        "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Esse, sit? Quaerat provident quam beatae itaque veniam molestias praesentium harum, perferendis, quo quia deserunt unde temporibus? Dolor tempore ab voluptas deserunt unde a magni dolore, incidunt consectetur optio cum!"
     },
     {
-        "title": "Sapiente, libero. Facere, mollitia.",
+        "title": "AI Implementation",
+        "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Rerum harum iste earum modi est laboriosam cumque, sequi hic facilis ad ipsam aperiam perferendis itaque et perspiciatis quibusdam a similique omnis debitis corrupti dolore officiis natus mollitia? Ea, vitae?"
     },
     {
-        "title": "Aliquid possimus distinctio incidunt?",
+        "title": "DSC Labs",
+        "year": 2025,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Quo asperiores, aut voluptatem ducimus deserunt vero quasi, recusandae voluptate totam ratione est sed nihil saepe doloremque possimus nulla ipsam. Eos libero consequuntur laboriosam non vero. Consequuntur fugiat laborum dolorem!"
     },
     {
         "title": "Ratione ad animi id.",
+        "year": 2023,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Molestiae, optio doloremque. Fugiat odio tenetur id rem quia, placeat alias voluptatibus nulla eveniet voluptatem illo cumque corrupti sequi ex perspiciatis quos mollitia voluptate laborum consequuntur et cum dignissimos molestias?"
     },
     {
         "title": "Sint odit eos consequuntur!",
+        "year": 2022,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Deleniti voluptatibus repudiandae quam rem excepturi. Velit reiciendis vitae voluptatem perferendis quae quibusdam est asperiores blanditiis, minus, cum itaque dolorum corrupti aliquam sit molestias sint. Et dolorum magni fugit perspiciatis."
     },
     {
         "title": "Modi praesentium corrupti voluptate.",
+        "year": 2019,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Voluptatibus assumenda quia eum qui modi natus tempora suscipit. Soluta beatae, aperiam facere veniam tempora quis voluptas, at aliquam labore laboriosam, cumque vel! Eos id eligendi quae cum dignissimos libero."
     },
     {
         "title": "Incidunt, vitae. Quidem, aspernatur?",
+        "year": 2020,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Odit dignissimos sint dicta ut sapiente cumque sit voluptate in officiis, tempore amet vitae temporibus eum reiciendis, earum, nihil explicabo quaerat vero aut nisi. Fugiat nam voluptate repellendus assumenda ullam."
     },
     {
         "title": "Sapiente ratione odit non.",
+        "year": 2021,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Quaerat, minima. Magnam, dolorum veniam? Saepe beatae cupiditate expedita sunt non. Hic tenetur, cum dolor in eveniet placeat architecto accusamus id beatae assumenda fugit iusto deleniti explicabo itaque fugiat. Quidem?"
     },
     {
         "title": "Rem hic animi facilis?",
+        "year": 2022,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Incidunt vitae officia error reprehenderit quae? Hic ab commodi vitae esse amet quibusdam officiis, natus deleniti perspiciatis sed, reiciendis veritatis voluptate rerum neque, veniam autem voluptatum doloribus dolore nostrum possimus."
     },
     {
         "title": "Quisquam tenetur reprehenderit rerum?",
+        "year": 2023,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Optio sit repudiandae veritatis totam eum nihil ad modi dolore et obcaecati recusandae, unde dolorum debitis quam accusantium, blanditiis aliquid possimus facere, ut tempora vero deleniti mollitia iste voluptatibus? Nobis."
     },
     {
         "title": "Tenetur laborum quos commodi?",
+        "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Quis libero asperiores omnis, odio, tempora repellat praesentium accusantium impedit, ipsum voluptatibus laborum pariatur! Nam, est. Autem doloremque eveniet, nam voluptas voluptates quo suscipit, ab adipisci explicabo itaque, saepe sapiente?"
     }

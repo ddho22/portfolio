@@ -166,3 +166,12 @@ label.color-scheme {
   font-family: inherit;
   font-size: 80%;
 }
+
+dl {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+dt {
+  grid-row: 1;
+}
